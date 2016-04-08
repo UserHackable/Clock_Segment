@@ -1,4 +1,4 @@
-## 7segment_shift 
+## Clock_Segment 
 
 
 ### Board dimensions
@@ -11,6 +11,6 @@
 
 | Front | Back |
 | --- | --- |
-| ![Front](7segment_shift.png) | ![Back](7segment_shift_back.png) |
+| ![Front](Clock_Segment.png) | ![Back](Clock_Segment_back.png) |
 
 
